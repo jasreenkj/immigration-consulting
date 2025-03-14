@@ -11,7 +11,7 @@ export default function Home() {
           </h1>
           
           <p className="text-lg sm:text-xl text-gray-600 max-w-xl mx-auto leading-relaxed">
-            Our website is currently undergoing scheduled maintenance to provide you with an improved experience. We'll be back shortly. Thank you!
+            Our website is currently undergoing scheduled maintenance to provide you with an improved experience. We'll be back shortly. Thank you!!
           </p>
         </div>
 
